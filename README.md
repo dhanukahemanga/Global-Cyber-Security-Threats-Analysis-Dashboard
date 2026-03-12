@@ -1,7 +1,7 @@
 # Global Cybersecurity Threats Analysis (2015–2024) – Power BI Dashboard
 
 ## Project Overview
-This project presents an interactive **Power BI dashboard** built using the **Global Cybersecurity Threats (2015–2024)** dataset from Kaggle.  
+This project presents an interactive **Power BI dashboard**. The dataset downloaded from Kaggle.  
 The dashboard analyzes global cybersecurity incidents by exploring patterns in **attack types, target industries, financial losses, affected users, attack sources, vulnerabilities, defense mechanisms, and incident resolution times**.
 
 The objective of this project is to visualize cybersecurity trends and provide insights into the **impact and evolution of cyber threats across countries and industries**.
