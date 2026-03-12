@@ -8,7 +8,7 @@ The objective of this project is to visualize cybersecurity trends and provide i
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Analyze global cybersecurity threat patterns  
 - Identify the most affected industries and countries  
@@ -18,8 +18,7 @@ The objective of this project is to visualize cybersecurity trends and provide i
 ---
 
 ## Dataset Information
-
-- **Dataset Name:** Global Cybersecurity Threats (2015–2024)  
+  
 - **Source:** Kaggle  
 - **Type:** Cybersecurity Incident Dataset  
 - **Total Columns:** 10  
@@ -59,5 +58,4 @@ The Power BI dashboard provides insights such as:
 ## Tools & Technologies
 
 - **Power BI** – Dashboard development and visualization  
-- **Power Query** – Data cleaning and transformation  
-- **Kaggle Dataset** – Data source  
+- **Power Query** – Data cleaning and transformation   
